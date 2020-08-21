@@ -1,6 +1,6 @@
 # module_1_final_projectREADME.md
 
-For this project, I collected and analyzed historical data regarding the movie industry through webscraping. I focused on a sample of the top 25 movies per domestic gross profit of box office sales every year for the past 5 years (2015-2019). I, also, found current data (YTD) which I used to formulate my recommendations and projections for future goals and overall business strategy.
+  For this project, I collected and analyzed historical data regarding the movie industry through webscraping. I focused on a sample of the top 25 movies per domestic gross profit of box office sales every year for the past 5 years (2015-2019). I, also, found current data (YTD) which I used to formulate my recommendations and projections for future goals and overall business strategy.
 
 Business Questions
 
@@ -18,5 +18,7 @@ What percentage of a movie studio's sources of revenue is the total gross profit
 
 Files Available
 
-module_1_pp - powerpoint slides - the front end
-student.ipynb - jupyter notebook - the back end
+module_1_pp - powerpoint slides - (front end)
+student.ipynb - jupyter notebook - (back end)
+
+
