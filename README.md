@@ -1,4 +1,4 @@
-# module_1_final_projectREADME.md
+# module_1_final_project README.md
 
   For this project, I collected and analyzed historical data regarding the movie industry through webscraping. I focused on a sample of the top 25 movies per domestic gross profit of box office sales every year for the past 5 years (2015-2019). I, also, found current data (YTD) which I used to formulate my recommendations and projections for future goals and overall business strategy.
 
