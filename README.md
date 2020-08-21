@@ -12,9 +12,6 @@ Are there any current trends in ticket sales?
   
 What is the percentage of domestic gross in relation to total gross of box office sales?
   - Depicted the domestic gross and total gross.
-  
-What percentage of a movie studio's sources of revenue is the total gross profit from ticket sales?
-  - Depicted an example of a movie studio's income channels.
 
 Files Available
 
