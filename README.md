@@ -8,10 +8,10 @@ Which genres currently dominate the film industry in the US and Canada (Domestic
   - Depicted the overall average domestic gross of box office sales of all the movie releases per genre from 2014-2019 to determine which genre has been the most profitable in recent years.
   
 Are there any current trends in ticket sales?
-  - Depicted the sample mean of tickets sold per year from 2015-2020.
-
+  - Depicted the percentage change YoY of ticket sales.
+  
 What is the percentage of domestic gross in relation to total gross of box office sales?
-  - Depicted the percentage change YoY of the sample mean.
+  - Depicted the domestic gross and total gross.
   
 What percentage of a movie studio's sources of revenue is the total gross profit from ticket sales?
   - Depicted an example of a movie studio's income channels.
